@@ -11,6 +11,8 @@
 * extra info
 
 ## Contact
-Blog: https://gabelopment.wordpress.com/
-Github: https://github.com/elgitdegabi
+Blog: https://somedevnotes.wordpress.com/
+
+Github: https://github.com/gabo-gil-playground
+
 Linkedin: https://www.linkedin.com/in/gabogil/
